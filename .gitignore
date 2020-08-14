@@ -1,4 +1,4 @@
 node_modules/
-build/
+# build/
 npm-debug.log
 index.es5.js
